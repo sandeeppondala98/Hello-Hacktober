@@ -5,6 +5,7 @@
 int main() {
 
   printf("Hello, world!\n");
+  printf("hello hello");
   cout << "Hola Mundo!!!" << endl;
   
 
